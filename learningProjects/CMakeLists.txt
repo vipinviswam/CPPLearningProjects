@@ -51,3 +51,6 @@ endif()
 
 # Math folder (system)
 add_subdirectory(math)
+
+# udemychallenges folder (system)
+add_subdirectory(udemychallenges)

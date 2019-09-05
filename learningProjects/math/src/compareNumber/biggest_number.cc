@@ -26,10 +26,5 @@ int Biggest_number::find_bignumber()
     }
 }
 
-// Biggest_number::Biggest_number(int a_val, int b_val, int c_val)
-//     : a{a_val}, b{b_val}, c{c_val}
-// {
-// }
-
 } // namespace math
 } // namespace learningProjects

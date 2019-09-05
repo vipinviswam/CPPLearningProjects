@@ -41,6 +41,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/vipin/Documents/TestCPPProjects/learningProjects/build/googletest/cmake_install.cmake")
   include("/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/cmake_install.cmake")
+  include("/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/cmake_install.cmake")
 
 endif()
 

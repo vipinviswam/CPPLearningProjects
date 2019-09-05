@@ -60,15 +60,15 @@ include math/CMakeFiles/learningProjects_lib.dir/flags.make
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o: math/CMakeFiles/learningProjects_lib.dir/flags.make
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o: ../math/src/compareNumber/compare_numbers.cc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vipin/Documents/TestCPPProjects/learningProjects/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o -c /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/compare_numbers.cc
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o -c /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/compare_numbers.cc
 
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.i"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/compare_numbers.cc > CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.i
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/compare_numbers.cc > CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.i
 
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.s"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/compare_numbers.cc -o CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.s
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/compare_numbers.cc -o CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.s
 
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o.requires:
 
@@ -84,15 +84,15 @@ math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o.
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o: math/CMakeFiles/learningProjects_lib.dir/flags.make
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o: ../math/src/compareNumber/biggest_number.cc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vipin/Documents/TestCPPProjects/learningProjects/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o -c /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/biggest_number.cc
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o -c /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/biggest_number.cc
 
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.i"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/biggest_number.cc > CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.i
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/biggest_number.cc > CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.i
 
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.s"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/biggest_number.cc -o CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.s
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/biggest_number.cc -o CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.s
 
 math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o.requires:
 

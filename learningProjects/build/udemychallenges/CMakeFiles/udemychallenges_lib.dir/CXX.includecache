@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../udemychallenges/include/learningProjects/udemychallenges/section_six/coding_exercise_four.h
+string
+-
+
+/home/vipin/Documents/TestCPPProjects/learningProjects/udemychallenges/src/section_six/coding_exercise_four.cc
+learningProjects/udemychallenges/section_six/coding_exercise_four.h
+-
+string
+-
+

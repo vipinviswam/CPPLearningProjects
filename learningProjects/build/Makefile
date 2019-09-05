@@ -258,6 +258,32 @@ compare_numbers_test/fast:
 	$(MAKE) -f math/tests/CMakeFiles/compare_numbers_test.dir/build.make math/tests/CMakeFiles/compare_numbers_test.dir/build
 .PHONY : compare_numbers_test/fast
 
+#=============================================================================
+# Target rules for targets named udemychallenges_lib
+
+# Build rule for target.
+udemychallenges_lib: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 udemychallenges_lib
+.PHONY : udemychallenges_lib
+
+# fast build rule for target.
+udemychallenges_lib/fast:
+	$(MAKE) -f udemychallenges/CMakeFiles/udemychallenges_lib.dir/build.make udemychallenges/CMakeFiles/udemychallenges_lib.dir/build
+.PHONY : udemychallenges_lib/fast
+
+#=============================================================================
+# Target rules for targets named coding_exercise_four
+
+# Build rule for target.
+coding_exercise_four: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 coding_exercise_four
+.PHONY : coding_exercise_four
+
+# fast build rule for target.
+coding_exercise_four/fast:
+	$(MAKE) -f udemychallenges/tests/CMakeFiles/coding_exercise_four.dir/build.make udemychallenges/tests/CMakeFiles/coding_exercise_four.dir/build
+.PHONY : coding_exercise_four/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -278,6 +304,8 @@ help:
 	@echo "... learningProjects_lib"
 	@echo "... biggest_number_test"
 	@echo "... compare_numbers_test"
+	@echo "... udemychallenges_lib"
+	@echo "... coding_exercise_four"
 .PHONY : help
 
 

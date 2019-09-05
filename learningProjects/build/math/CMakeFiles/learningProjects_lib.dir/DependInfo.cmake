@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/biggest_number.cc" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o"
   "/home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/compare_numbers.cc" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

@@ -1,3 +1,4 @@
-compare_numbers_test 1 0.00434685
-biggest_number_test 1 0.00332403
+compare_numbers_test 1 0.00881195
+biggest_number_test 1 0.007339
+coding_exercise_four 1 0.00594306
 ---

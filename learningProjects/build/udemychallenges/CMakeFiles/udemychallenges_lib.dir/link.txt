@@ -1,0 +1,2 @@
+/usr/bin/ar qc libudemychallenges_lib.a  CMakeFiles/udemychallenges_lib.dir/src/section_six/coding_exercise_four.cc.o
+/usr/bin/ranlib libudemychallenges_lib.a

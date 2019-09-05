@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/vipin/Documents/TestCPPProjects/learningProjects/math/tests/src/compare_numbers_test.cc" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests/CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

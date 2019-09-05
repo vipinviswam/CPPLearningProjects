@@ -60,15 +60,15 @@ include math/tests/CMakeFiles/compare_numbers_test.dir/flags.make
 math/tests/CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.o: math/tests/CMakeFiles/compare_numbers_test.dir/flags.make
 math/tests/CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.o: ../math/tests/src/compare_numbers_test.cc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vipin/Documents/TestCPPProjects/learningProjects/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object math/tests/CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.o"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.o -c /home/vipin/Documents/TestCPPProjects/learningProjects/math/tests/src/compare_numbers_test.cc
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests && /usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.o -c /home/vipin/Documents/TestCPPProjects/learningProjects/math/tests/src/compare_numbers_test.cc
 
 math/tests/CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.i"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vipin/Documents/TestCPPProjects/learningProjects/math/tests/src/compare_numbers_test.cc > CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.i
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vipin/Documents/TestCPPProjects/learningProjects/math/tests/src/compare_numbers_test.cc > CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.i
 
 math/tests/CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.s"
-	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vipin/Documents/TestCPPProjects/learningProjects/math/tests/src/compare_numbers_test.cc -o CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.s
+	cd /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vipin/Documents/TestCPPProjects/learningProjects/math/tests/src/compare_numbers_test.cc -o CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.s
 
 math/tests/CMakeFiles/compare_numbers_test.dir/src/compare_numbers_test.cc.o.requires:
 

@@ -16,8 +16,14 @@ public:
 
 TEST_F(TestFixture, biggest_number_test)
 {
-    Biggest_number bb{3, 5, 7};
-    EXPECT_EQ(bb.find_bignumber(), 7);
+    Biggest_number find_bignumber{3, 5, 7};
+    EXPECT_EQ(find_bignumber.find_bignumber(), 7);
+}
+
+TEST_F(TestFixture, biggest_two_parameters)
+{
+    Biggest_number find_bignumber{3, 5};
+    EXPECT_EQ(find_bignumber.find_bignumber(), 5);
 }
 } // namespace math
 } // namespace learningProjects
