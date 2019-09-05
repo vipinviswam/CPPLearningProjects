@@ -52,6 +52,7 @@ set(LIB_DEP
 #########################################
 set(SOURCE
   src/compareNumber/compare_numbers.cc
+  src/compareNumber/biggest_number.cc
 )
 
 # creating or adding to library from source 

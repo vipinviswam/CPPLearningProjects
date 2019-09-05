@@ -83,3 +83,30 @@ set(TEST_LIB_DEP
 add_executable(${TEST_NAME} ${SOURCE})
 target_link_libraries(${TEST_NAME} ${TEST_LIB_DEP})
 add_test(${TEST_NAME} ${TEST_NAME} WORKING_DIRECTORY ${CMAKE_BINARY_DIR}/math/tests)
+
+## Learning Projects Math test
+set(TEST_NAME biggest_number_test)
+set(SOURCE 
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/biggest_number_test.cc
+)
+set(TEST_LIB_DEP
+#   ${DEBUG_LIB_DEP}
+  ${GOOGLETEST_LIBRARIES}
+  ${Boost_LIBRARIES}
+#   messaging_manager
+#   messaging_queue
+#   ipc_bridge_manager
+#   ipc_converter
+#   basic_world_model # technical debt
+  learningProjects_lib
+#   ${rclcpp_LIBRARIES}
+#   ${soul_msgs_LIBRARIES}
+#   ${OpenCV_LIBS}
+#   ${Boost_LIBRARIES}
+#   dl
+#   stdc++fs
+)
+
+add_executable(${TEST_NAME} ${SOURCE})
+target_link_libraries(${TEST_NAME} ${TEST_LIB_DEP})
+add_test(${TEST_NAME} ${TEST_NAME} WORKING_DIRECTORY ${CMAKE_BINARY_DIR}/math/tests)

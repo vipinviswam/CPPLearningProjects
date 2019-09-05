@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../math/include/learningProjects/math/compareNumber/biggest_number.h
+iostream
+-
+
+../math/include/learningProjects/math/compareNumber/compare_numbers.h
+iostream
+-
+
+/home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/biggest_number.cc
+learningProjects/math/compareNumber/biggest_number.h
+-
+iostream
+-
+
+/home/vipin/Documents/TestCPPProjects/learningProjects/math/src/compareNumber/compare_numbers.cc
+learningProjects/math/compareNumber/compare_numbers.h
+-
+iostream
+-
+

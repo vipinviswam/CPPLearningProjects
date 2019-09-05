@@ -1,0 +1,63 @@
+Start testing: Sep 05 11:12 HKT
+----------------------------------------------------------
+1/2 Testing: compare_numbers_test
+1/2 Test: compare_numbers_test
+Command: "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests/compare_numbers_test" "WORKING_DIRECTORY" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests"
+Directory: /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests
+"compare_numbers_test" start time: Sep 05 11:12 HKT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from TestFixture
+[ RUN      ] TestFixture.compare_numbers_test
+7
+[       OK ] TestFixture.compare_numbers_test (0 ms)
+[ RUN      ] TestFixture.negative_number_test
+2
+[       OK ] TestFixture.negative_number_test (0 ms)
+[ RUN      ] TestFixture.zero_number_test
+0
+[       OK ] TestFixture.zero_number_test (0 ms)
+[----------] 3 tests from TestFixture (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"compare_numbers_test" end time: Sep 05 11:12 HKT
+"compare_numbers_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: biggest_number_test
+2/2 Test: biggest_number_test
+Command: "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests/biggest_number_test" "WORKING_DIRECTORY" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests"
+Directory: /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests
+"biggest_number_test" start time: Sep 05 11:12 HKT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestFixture
+[ RUN      ] TestFixture.biggest_number_test
+7
+[       OK ] TestFixture.biggest_number_test (0 ms)
+[----------] 1 test from TestFixture (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"biggest_number_test" end time: Sep 05 11:12 HKT
+"biggest_number_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 05 11:12 HKT
