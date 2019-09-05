@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/math/tests/src/biggest_number_test.cc" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests/CMakeFiles/biggest_number_test.dir/src/biggest_number_test.cc.o"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/math/tests/src/biggest_number_test.cc" "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/tests/CMakeFiles/biggest_number_test.dir/src/biggest_number_test.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 
@@ -19,10 +19,10 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/build/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/build/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/build/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/CMakeFiles/learningProjects_lib.dir/DependInfo.cmake"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/CMakeFiles/learningProjects_lib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

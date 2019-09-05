@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/vipin/Documents/TestCPPProjects/learningProjects
-# Build directory: /home/vipin/Documents/TestCPPProjects/learningProjects/build
+# Source directory: /Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects
+# Build directory: /Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

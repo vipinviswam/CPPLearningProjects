@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-../udemychallenges/include/learningProjects/udemychallenges/section_six/coding_exercise_four.h
-string
--
+../udemychallenges/include/learningProjects/udemychallenges/section_six/section_six_challenge.h
 
-/home/vipin/Documents/TestCPPProjects/learningProjects/udemychallenges/src/section_six/coding_exercise_four.cc
-learningProjects/udemychallenges/section_six/coding_exercise_four.h
--
-string
+/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/udemychallenges/src/section_six/section_six_challenge.cc
+learningProjects/udemychallenges/section_six/section_six_challenge.h
 -
 

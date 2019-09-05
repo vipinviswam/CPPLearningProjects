@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/udemychallenges/tests/src/coding_exercise_four_test.cc" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests/CMakeFiles/coding_exercise_four.dir/src/coding_exercise_four_test.cc.o"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/udemychallenges/tests/src/coding_exercise_four_test.cc" "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests/CMakeFiles/coding_exercise_four.dir/src/coding_exercise_four_test.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 
@@ -19,10 +19,10 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/build/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/build/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/build/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/CMakeFiles/udemychallenges_lib.dir/DependInfo.cmake"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/CMakeFiles/udemychallenges_lib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

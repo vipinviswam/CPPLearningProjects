@@ -52,6 +52,7 @@ set(LIB_DEP
 #########################################
 set(SOURCE
   src/section_six/coding_exercise_four.cc
+  src/section_six/section_six_challenge.cc
 )
 
 # creating or adding to library from source 

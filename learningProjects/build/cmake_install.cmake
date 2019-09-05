@@ -1,4 +1,4 @@
-# Install script for directory: /home/vipin/Documents/TestCPPProjects/learningProjects
+# Install script for directory: /Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -27,11 +27,6 @@ if(NOT CMAKE_INSTALL_COMPONENT)
   endif()
 endif()
 
-# Install shared libraries without execute permission?
-if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
-  set(CMAKE_INSTALL_SO_NO_EXE "1")
-endif()
-
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
@@ -39,9 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/vipin/Documents/TestCPPProjects/learningProjects/build/googletest/cmake_install.cmake")
-  include("/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/cmake_install.cmake")
-  include("/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/cmake_install.cmake")
+  include("/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/googletest/cmake_install.cmake")
+  include("/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/cmake_install.cmake")
+  include("/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/cmake_install.cmake")
 
 endif()
 
@@ -53,5 +48,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/vipin/Documents/TestCPPProjects/learningProjects/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
