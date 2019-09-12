@@ -1,5 +1,5 @@
-#ifndef LEARNINGPROJECTS_UDEMYCHALLENGES_CODING_EXERCIS_FOUR_H_
-#define LEARNINGPROJECTS_UDEMYCHALLENGES_CODING_EXERCIS_FOUR_H_
+#ifndef LEARNINGPROJECTS_UDEMYCHALLENGES_CODING_EXERCISE_FOUR_H_
+#define LEARNINGPROJECTS_UDEMYCHALLENGES_CODING_EXERCISE_FOUR_H_
 
 #include <string>
 
@@ -21,7 +21,7 @@ public:
     }
 
     /* methods */
-    bool set_value(int, double, std::string);
+    void set_value(int, double, std::string);
     int get_age();
     double get_hourly_wage_rate();
     std::string get_name();

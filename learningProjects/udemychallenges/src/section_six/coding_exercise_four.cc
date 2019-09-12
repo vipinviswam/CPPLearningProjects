@@ -7,13 +7,11 @@ namespace learningProjects
 namespace udemychallenges
 {
 
-bool Coding_exercise_four::set_value(int employee_age, double employee_hourly_wage_rate, std::string employee_name)
+void Coding_exercise_four::set_value(int employee_age, double employee_hourly_wage_rate, std::string employee_name)
 {
     age = employee_age;
     hourly_wage_rate = employee_hourly_wage_rate;
     name = employee_name;
-
-    return true;
 }
 
 int Coding_exercise_four::get_age()

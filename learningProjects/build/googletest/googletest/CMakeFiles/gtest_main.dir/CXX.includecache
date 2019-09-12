@@ -35,8 +35,6 @@ gtest/internal/gtest-port.h
 ../googletest/googletest/include/gtest/gtest/internal/gtest-port.h
 
 ../googletest/googletest/include/gtest/gtest-param-test.h
-iterator
--
 utility
 -
 gtest/internal/gtest-internal.h
@@ -300,9 +298,9 @@ cxxabi.h
 acxx_demangle.h
 -
 
-/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/googletest/googletest/src/gtest_main.cc
+/home/vipin/Documents/TestCPPProjects/learningProjects/googletest/googletest/src/gtest_main.cc
 cstdio
 -
 gtest/gtest.h
-/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/googletest/googletest/src/gtest/gtest.h
+/home/vipin/Documents/TestCPPProjects/learningProjects/googletest/googletest/src/gtest/gtest.h
 

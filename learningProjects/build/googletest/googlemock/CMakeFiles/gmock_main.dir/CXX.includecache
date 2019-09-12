@@ -253,8 +253,6 @@ gtest/internal/gtest-port.h
 ../googletest/googletest/include/gtest/gtest/internal/gtest-port.h
 
 ../googletest/googletest/include/gtest/gtest-param-test.h
-iterator
--
 utility
 -
 gtest/internal/gtest-internal.h
@@ -518,13 +516,13 @@ cxxabi.h
 acxx_demangle.h
 -
 
-/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/googletest/googlemock/src/gmock_main.cc
+/home/vipin/Documents/TestCPPProjects/learningProjects/googletest/googlemock/src/gmock_main.cc
 iostream
 -
 gmock/gmock.h
-/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/googletest/googlemock/src/gmock/gmock.h
+/home/vipin/Documents/TestCPPProjects/learningProjects/googletest/googlemock/src/gmock/gmock.h
 gtest/gtest.h
-/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/googletest/googlemock/src/gtest/gtest.h
+/home/vipin/Documents/TestCPPProjects/learningProjects/googletest/googlemock/src/gtest/gtest.h
 tchar.h
 -
 

@@ -1,2 +1,2 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc liblearningProjects_lib.a  CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib liblearningProjects_lib.a
+/usr/bin/ar qc liblearningProjects_lib.a  CMakeFiles/learningProjects_lib.dir/src/compareNumber/compare_numbers.cc.o CMakeFiles/learningProjects_lib.dir/src/compareNumber/biggest_number.cc.o
+/usr/bin/ranlib liblearningProjects_lib.a

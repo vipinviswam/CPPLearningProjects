@@ -253,8 +253,6 @@ gtest/internal/gtest-port.h
 ../googletest/googletest/include/gtest/gtest/internal/gtest-port.h
 
 ../googletest/googletest/include/gtest/gtest-param-test.h
-iterator
--
 utility
 -
 gtest/internal/gtest-internal.h
@@ -520,7 +518,7 @@ acxx_demangle.h
 
 ../udemychallenges/include/learningProjects/udemychallenges/section_six/section_six_challenge.h
 
-/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/udemychallenges/tests/src/section_six_challenge_test.cc
+/home/vipin/Documents/TestCPPProjects/learningProjects/udemychallenges/tests/src/section_six_challenge_test.cc
 gtest/gtest.h
 -
 gmock/gmock.h
