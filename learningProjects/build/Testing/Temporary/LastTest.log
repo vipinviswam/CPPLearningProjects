@@ -1,10 +1,10 @@
-Start testing: Sep 12 16:51 HKT
+Start testing: Sep 13 19:19 HKT
 ----------------------------------------------------------
 1/5 Testing: compare_numbers_test
 1/5 Test: compare_numbers_test
-Command: "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests/compare_numbers_test" "WORKING_DIRECTORY" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests"
-Directory: /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests
-"compare_numbers_test" start time: Sep 12 16:51 HKT
+Command: "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/tests/compare_numbers_test" "WORKING_DIRECTORY" "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/tests"
+Directory: /Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/tests
+"compare_numbers_test" start time: Sep 13 19:19 HKT
 Output:
 ----------------------------------------------------------
 Running main() from gmock_main.cc
@@ -26,18 +26,18 @@ Running main() from gmock_main.cc
 [==========] 3 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 3 tests.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"compare_numbers_test" end time: Sep 12 16:51 HKT
+"compare_numbers_test" end time: Sep 13 19:19 HKT
 "compare_numbers_test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 2/5 Testing: biggest_number_test
 2/5 Test: biggest_number_test
-Command: "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests/biggest_number_test" "WORKING_DIRECTORY" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests"
-Directory: /home/vipin/Documents/TestCPPProjects/learningProjects/build/math/tests
-"biggest_number_test" start time: Sep 12 16:51 HKT
+Command: "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/tests/biggest_number_test" "WORKING_DIRECTORY" "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/tests"
+Directory: /Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/math/tests
+"biggest_number_test" start time: Sep 13 19:19 HKT
 Output:
 ----------------------------------------------------------
 Running main() from gmock_main.cc
@@ -56,18 +56,18 @@ Running main() from gmock_main.cc
 [==========] 2 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 2 tests.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"biggest_number_test" end time: Sep 12 16:51 HKT
+"biggest_number_test" end time: Sep 13 19:19 HKT
 "biggest_number_test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 3/5 Testing: coding_exercise_four
 3/5 Test: coding_exercise_four
-Command: "/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests/coding_exercise_four" "WORKING_DIRECTORY" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests"
-Directory: /home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests
-"coding_exercise_four" start time: Sep 12 16:51 HKT
+Command: "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests/coding_exercise_four" "WORKING_DIRECTORY" "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests"
+Directory: /Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests
+"coding_exercise_four" start time: Sep 13 19:19 HKT
 Output:
 ----------------------------------------------------------
 Running main() from gmock_main.cc
@@ -84,18 +84,18 @@ Running main() from gmock_main.cc
 [==========] 2 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 2 tests.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"coding_exercise_four" end time: Sep 12 16:51 HKT
+"coding_exercise_four" end time: Sep 13 19:19 HKT
 "coding_exercise_four" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 4/5 Testing: section_six_challenge_test
 4/5 Test: section_six_challenge_test
-Command: "/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests/section_six_challenge_test" "WORKING_DIRECTORY" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests"
-Directory: /home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests
-"section_six_challenge_test" start time: Sep 12 16:51 HKT
+Command: "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests/section_six_challenge_test" "WORKING_DIRECTORY" "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests"
+Directory: /Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests
+"section_six_challenge_test" start time: Sep 13 19:19 HKT
 Output:
 ----------------------------------------------------------
 Running main() from gmock_main.cc
@@ -111,44 +111,46 @@ Running main() from gmock_main.cc
 [----------] 3 tests from TestFixture (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 3 tests from 1 test suite ran. (1 ms total)
+[==========] 3 tests from 1 test suite ran. (0 ms total)
 [  PASSED  ] 3 tests.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"section_six_challenge_test" end time: Sep 12 16:51 HKT
+"section_six_challenge_test" end time: Sep 13 19:19 HKT
 "section_six_challenge_test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 5/5 Testing: coding_exercise_five
 5/5 Test: coding_exercise_five
-Command: "/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests/coding_exercise_five" "WORKING_DIRECTORY" "/home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests"
-Directory: /home/vipin/Documents/TestCPPProjects/learningProjects/build/udemychallenges/tests
-"coding_exercise_five" start time: Sep 12 16:51 HKT
+Command: "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests/coding_exercise_five" "WORKING_DIRECTORY" "/Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests"
+Directory: /Users/vipin_viswam/Documents/CPPLearningProjects/learningProjects/build/udemychallenges/tests
+"coding_exercise_five" start time: Sep 13 19:19 HKT
 Output:
 ----------------------------------------------------------
 Running main() from gmock_main.cc
-[==========] Running 3 tests from 1 test suite.
+[==========] Running 4 tests from 1 test suite.
 [----------] Global test environment set-up.
-[----------] 3 tests from TestFixture
+[----------] 4 tests from TestFixture
 [ RUN      ] TestFixture.array_element_test
 [       OK ] TestFixture.array_element_test (0 ms)
 [ RUN      ] TestFixture.array_last_element_test
 [       OK ] TestFixture.array_last_element_test (0 ms)
 [ RUN      ] TestFixture.adding_two_elements_to_Array
 [       OK ] TestFixture.adding_two_elements_to_Array (0 ms)
-[----------] 3 tests from TestFixture (0 ms total)
+[ RUN      ] TestFixture.adding_two_elements_to_2DArray
+[       OK ] TestFixture.adding_two_elements_to_2DArray (0 ms)
+[----------] 4 tests from TestFixture (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 3 tests from 1 test suite ran. (0 ms total)
-[  PASSED  ] 3 tests.
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 4 tests.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"coding_exercise_five" end time: Sep 12 16:51 HKT
+"coding_exercise_five" end time: Sep 13 19:19 HKT
 "coding_exercise_five" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 12 16:51 HKT
+End testing: Sep 13 19:19 HKT

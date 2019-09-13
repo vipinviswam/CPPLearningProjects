@@ -1,6 +1,6 @@
-compare_numbers_test 22 7.61747e-05
-biggest_number_test 22 8.48662e-05
-coding_exercise_four 22 8.09539e-05
-section_six_challenge_test 22 7.66841e-05
-coding_exercise_five 6 0.000283321
+compare_numbers_test 4 0.00177928
+biggest_number_test 4 0.0018756
+coding_exercise_four 4 0.00182192
+section_six_challenge_test 4 0.00218281
+coding_exercise_five 4 0.00160268
 ---

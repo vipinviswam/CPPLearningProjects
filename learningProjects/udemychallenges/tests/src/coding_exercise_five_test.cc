@@ -43,6 +43,10 @@ TEST_F(TestFixture, adding_two_elements_to_Array)
 TEST_F(TestFixture, adding_two_elements_to_2DArray)
 {
     using namespace ::testing;
+    print_array.set_value(print_array.arr_one, 10);
+    print_array.set_value(print_array.arr_one, 20);
+    print_array.set_value(print_array.arr_two, 100);
+    print_array.set_value(print_array.arr_two, 200);
     print_array.set_value(print_array.arr_two_dim, print_array.arr_one);
     print_array.set_value(print_array.arr_two_dim, print_array.arr_two);
     EXPECT_THAT(print_array.get_value(print_array.arr_two_dim, 0), ElementsAre(10, 20));

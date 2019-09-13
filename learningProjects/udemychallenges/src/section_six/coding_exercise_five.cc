@@ -40,6 +40,10 @@ int Coding_exercise_five::get_value(std::vector<int> array_name, int pos)
     return result;
 }
 
+std::vector<int> Coding_exercise_five::get_value(std::vector<std::vector<int>> array_name, int pos){
+    return array_name.at(pos);
+}
+
 // int Coding_exercise_five::set_first_element(int first_value)
 // {
 //     arr[0] = first_value;
